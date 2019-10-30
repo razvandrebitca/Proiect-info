@@ -1,0 +1,21 @@
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\Agenda_telefonica.accdb
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.exe.config
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.exe
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.pdb
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.csprojAssemblyReference.cache
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda_telefonica.Form1.resources
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda_telefonica.Properties.Resources.resources
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.csproj.GenerateResource.cache
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.exe
+C:\Users\Profesor\source\repos\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.pdb
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\Agenda_telefonica.accdb
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.exe.config
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.exe
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\bin\Debug\BD_Agenda telefonica.pdb
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.csprojAssemblyReference.cache
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda_telefonica.Form1.resources
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda_telefonica.Properties.Resources.resources
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.csproj.GenerateResource.cache
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.exe
+C:\Users\Profesor\Desktop\BD_Agenda telefonica\BD_Agenda telefonica\obj\Debug\BD_Agenda telefonica.pdb
